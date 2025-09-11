@@ -101,12 +101,12 @@ transform = transforms.Compose([
 
 ```
 white-blood-cell-classifier/
-├── APS360_Team_5_Project.ipynb    # Main project notebook
-├── best_model.pth                 # Trained model weights
-├── img/                           # Result visualizations
+├── white_blood_cell_classifier.ipynb  # Main project notebook
+├── best_model.pth                     # Trained model weights
+├── img/                               # Result visualizations
 │   ├── side_by_side_image.png
 │   └── reshaped_predictions.png
-└── README.md                      # Project documentation
+└── README.md                          # Project documentation
 ```
 
 ## 🔧 Requirements
